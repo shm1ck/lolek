@@ -1,4 +1,5 @@
 ---
-title: Buďme ve spojení
+title: Kontakty
 breadcrumb: Kontakt
+
 ---
