@@ -5,6 +5,13 @@ title: "## S čím vám pomohu\n"
 service:
 - title: ''
   content: |-
+    #### Grafika
+    - loga
+    - bannery
+    - letáky
+  image: "/images/service/branding.svg"
+- title: ''
+  content: |-
     #### Copywriting
     - blog
     - tištěná media
