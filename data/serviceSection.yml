@@ -1,42 +1,23 @@
 ---
 enable: true
 topTitle: Služby
-title: >
-  ## S čím vám pomohu
-
+title: "## S čím vám pomohu\n"
 service:
-  - content: >
-      #### Copywriting 
-
-      - blog
-
-      - tištěná periodika
-
-      - textace na web
-
-      - textace inzerce
-
-      - správa webu
-
-      - e-shopu
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Backoffice 
-
-      - Domlouvání schůzek
-
-      - komunikace se zákazníky
-
-      - komunikace s dodavateli (email, telefon)
-    image: images/service/web.svg
-  - content: >
-      #### Marketing
-
-      - správa a vytváření obsahu pro sociální sítě
-
-      - tvoření obsahu pro firemní blog, e-shop, web
-
-      - rozesílání newsletterů
-
-      - zpracování grafických podkladů (letáky, brožury, plakáty, bannery aj.)
-    image: images/service/creative.svg
+- title: ''
+  content: ''
+  image: ''
+- content: "#### Copywriting \n- blog\n- tištěná periodika\n- textace na web\n- textace
+    inzerce\n- správa webu\n- e-shopu\n"
+  image: images/service/ui-ux.svg
+  title: ''
+- content: "#### Backoffice \n- Domlouvání schůzek\n- komunikace se zákazníky\n- komunikace
+    s dodavateli (email, telefon)\n"
+  image: images/service/web.svg
+  title: ''
+- content: |
+    - bannery
+    - letáky
+    - vizitky
+  image: "/images/contact/location.svg"
+  title: Grafické služby
+subtitle: ''
