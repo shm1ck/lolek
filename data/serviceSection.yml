@@ -9,7 +9,7 @@ service:
     - loga
     - bannery
     - letáky
-  image: "/images/service/branding.svg"
+  image: "/images/service/web.svg"
 - title: ''
   content: |-
     #### Copywriting
