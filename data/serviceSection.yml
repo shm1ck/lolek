@@ -15,7 +15,7 @@ service:
     #### Copywriting
     - blog
     - tištěná media
-  image: "/images/service/ui-ux.svg"
+  image: "/images/service/creative.svg"
 - content: "#### Copywriting \n- blog\n- tištěná periodika\n- textace na web\n- textace
     inzerce\n- správa webu\n- e-shopu\n"
   image: images/service/ui-ux.svg
