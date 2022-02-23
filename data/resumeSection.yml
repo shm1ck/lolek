@@ -1,0 +1,39 @@
+---
+enable: false
+topTitle: Životopis
+title: >
+  ## Moje zkušenosti
+
+  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
+
+
+  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
+tab1Name: Pracovní zkušenosti
+tab2Name: Vzdělání
+tab1Target: experience
+tab2Target: education
+
+experience:
+  - content: >
+      #### První novinová společnost, a. s.
+
+      Specialista marketingu
+    time: 2017—2021
+  - content: >
+      #### Městská knihovna v Praze
+
+      Knihovnice
+    time: 2012—2016
+
+
+education:
+  - content: >
+      #### VOŠ grafická, Hellichova
+
+      Grafický design a zpracování tiskovin
+    time: 2008—2010
+  - content: >
+      #### Univerzita J. A. Komenského
+
+      Sociální a mediální komunikace
+    time: 2008—2010

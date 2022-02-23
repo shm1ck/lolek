@@ -1,0 +1,42 @@
+---
+enable: true
+topTitle: Služby
+title: >
+  ## S čím vám pomohu
+
+service:
+  - content: >
+      #### Copywriting 
+
+      - blog
+
+      - tištěná periodika
+
+      - textace na web
+
+      - textace inzerce
+
+      - správa webu
+
+      - e-shopu
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Backoffice 
+
+      - Domlouvání schůzek
+
+      - komunikace se zákazníky
+
+      - komunikace s dodavateli (email, telefon)
+    image: images/service/web.svg
+  - content: >
+      #### Marketing
+
+      - správa a vytváření obsahu pro sociální sítě
+
+      - tvoření obsahu pro firemní blog, e-shop, web
+
+      - rozesílání newsletterů
+
+      - zpracování grafických podkladů (letáky, brožury, plakáty, bannery aj.)
+    image: images/service/creative.svg
