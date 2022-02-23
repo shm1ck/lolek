@@ -3,54 +3,34 @@ languageCode = "en-us"
 paginate = 6
 theme = "portio"
 title = "Barbara Šmidrkalová"
-# Main Menu
-[[menu.main-false]]
-name = "Home"
-url = "#home"
-weight = 1
-[[menu.main-]]
-name = "O mně"
-url = "#about"
+[[menu.main]]
+name = "Kontakt"
+url = "#contact"
 weight = 2
 [[menu.main]]
 name = "Služby"
 url = "#service"
+weight = 1
+[[menu.main-]]
+name = "CV"
+url = "#resume"
 weight = 3
 [[menu.main-]]
 name = "Práce"
 url = "#portfolio"
-weight = 4
+weight = 2
 [[menu.main-]]
-name = "CV"
-url = "#resume"
-weight = 5
+name = "O mně"
+url = "#about"
+weight = 1
 [[menu.main-false]]
 name = "Blog"
 url = "#blog"
-weight = 6
-[[menu.main]]
-name = "Kontakt"
-url = "#contact"
-weight = 7
-
-# Sitemap Menu
-[[menu.sitemap]]
-name = "About me"
-url = "about"
-weight = 1
-[[menu.sitemap]]
-name = "Frequently Ask Question"
-url = "#"
 weight = 2
-[[menu.sitemap]]
-name = "Privacy & Policy"
-url = "#"
-weight = 3
-[[menu.sitemap]]
-name = "Latest Article"
-url = "#"
-weight = 4
-
+[[menu.main-false]]
+name = "Home"
+url = "#home"
+weight = 1
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
@@ -59,21 +39,17 @@ footerLogo = "images/site-navigation/logo-b.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo-b.png"
-
 [params.address]
 addressLine1 = "Odboje 55"
 addressLine2 = "Litoměřice"
 email = "barbara.smidrkalova@gmail.com"
 openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
 phone = "765 765 789"
-
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"
 latitude = "23.7783741"
 longitude = "90.3746808"
 pinImage = "images/pin.png"
-
-# Social icons
 [[params.social]]
 icon = "fa-facebook-official"
 url = "https://www.facebook.com/"
