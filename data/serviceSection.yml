@@ -6,9 +6,7 @@ service:
 - title: ''
   content: |-
     #### Copywriting
-
     - blog
-
     - tištěná media
   image: "/images/service/ui-ux.svg"
 - content: "#### Copywriting \n- blog\n- tištěná periodika\n- textace na web\n- textace
