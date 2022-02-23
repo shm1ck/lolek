@@ -5,10 +5,8 @@ admin_path: "/.forestry"
 webhook_url: 
 sections:
 - type: document
-  path: content/contact
+  path: content/contact/_index.md
   label: Kontakt
-  match: "**/*"
-  read_only: false
 - type: document
   path: data/aboutSection.yml
   label: About
