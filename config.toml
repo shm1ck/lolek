@@ -11,23 +11,23 @@ weight = 2
 name = "Služby"
 url = "#service"
 weight = 1
-[[menu.main-]]
+[[menu.main]]
 name = "CV"
 url = "#resume"
 weight = 3
-[[menu.main-]]
+[[menu.main]]
 name = "Práce"
 url = "#portfolio"
 weight = 2
-[[menu.main-]]
+[[menu.main]]
 name = "O mně"
 url = "#about"
 weight = 1
-[[menu.main-false]]
+[[menu.main]]
 name = "Blog"
 url = "#blog"
 weight = 2
-[[menu.main-false]]
+[[menu.main]]
 name = "Home"
 url = "#home"
 weight = 1
