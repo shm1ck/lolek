@@ -1,8 +1,8 @@
 .about {
   overflow: hidden;
-  padding: 200px;
+  padding-top: 200px;
   @include desktop {
-    padding: 200px;
+    padding-top: 200px;
   }
   &_content {
     display: flex;
