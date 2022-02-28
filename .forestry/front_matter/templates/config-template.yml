@@ -145,7 +145,7 @@ fields:
         required: false
       label: Tlačítko
       description: Text tlačítka
-    label: Jumbotron v patiče
+    label: Jumbotron v patičce
     description: Nastavení textů ve velkém boxu v patičce webu.
 pages:
 - config.toml
