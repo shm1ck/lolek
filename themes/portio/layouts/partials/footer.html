@@ -23,11 +23,12 @@
 						</svg>
 					</div>-->
 					<div class="text-light footer__cta_content">
-						<span>Dejte mi vědět o vašem projektu</span>
-						<h2 class="mb-0">Pusťme se do práce!</h2>
+						{{ $footerJ := .Site.Params.footerJumbo }}
+						<span>{{ $footerJ.smallTitle }}</span>
+						<h2 class="mb-0">{{ $footerJ.BigTitle }}</h2>
 					</div>
 					<div class="footer__cta_action">
-						<a class="btn btn-light btn-zoom" href="{{ .Site.Params.contactLink | absURL }}">Zůstaňme ve spojení</a>
+						<a class="btn btn-light btn-zoom" href="{{ .Site.Params.contactLink | absURL }}">{{ $footerJ.button }}</a>
 					</div>
 				</div>
 			</div>
