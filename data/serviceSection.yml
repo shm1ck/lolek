@@ -8,7 +8,7 @@ service:
     - lokace
     - casting
     - točení
-  image: images/film.svg
+  image: images/film.png
 - content: "#### Copywriting \n- blog\n- tištěná periodika\n- textace na web\n- textace
     inzerce\n- správa webu\n- e-shopu\n"
   image: images/service/ui-ux.svg
