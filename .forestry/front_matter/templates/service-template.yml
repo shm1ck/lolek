@@ -2,30 +2,25 @@
 label: Service Template
 hide_body: true
 fields:
-- type: boolean
-  name: enable
-  label: enable
 - type: text
   name: topTitle
-  label: topTitle
+  label: Malý nadpis sekce
+  description: Malý nadpis sekce služby. Začíná pomlčkou
 - type: text
   name: title
-  label: title
-- type: text
-  name: subtitle
-  label: subtitle
+  label: Nadpis
+  description: Hlavní nadpis sekce služby
 - type: field_group_list
   name: service
   label: service
   fields:
-  - type: text
-    name: title
-    label: title
   - type: textarea
     name: content
-    label: content
+    label: Popis karty
+    description: Popis za hlavním nadpisem na kartě
   - type: file
     name: image
-    label: Icon
+    label: Ikona
+    description: Ikona nad textem.
 pages:
 - data/serviceSection.yml
