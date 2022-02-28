@@ -10,11 +10,6 @@ sections:
 - type: document
   path: data/serviceSection.yml
   label: Services
-- type: directory
-  path: content/contact
-  label: Contact
-  create: all
-  match: "**/*"
 - type: document
   path: config.toml
   label: Config File
