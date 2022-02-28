@@ -2,35 +2,41 @@
 label: About Template
 hide_body: true
 fields:
-- type: boolean
-  name: enable
-  label: enable
 - type: text
   name: title
-  label: title
+  label: Hlavní nadpis
+  description: Hlavní nadpis stránky hned za menu.
 - type: text
   name: subtitle
   label: subtitle
 - type: text
   name: title2
   label: title2
+  hidden: true
 - type: textarea
   name: content
-  label: content
+  label: Obsah boxu.
+  description: Obsah textového boxu.
+  hidden: false
 - type: text
   name: button1Name
-  label: button1Name
+  label: Popis tlačítka v boxu
+  description: Krátký text tlačítka v boxu pod textem vedle fotografie.
 - type: text
   name: button2Name
   label: button2Name
+  hidden: true
 - type: text
   name: button1Target
-  label: button1Target
+  label: Odkaz tlačítka
+  description: Nastavení odkazu tlačítko.
 - type: text
   name: button2Target
   label: button2Target
+  hidden: true
 - type: file
   name: image
-  label: image
+  label: Fotografie
+  description: Hlavní fotografie sekce o mně
 pages:
 - data/aboutSection.yml
