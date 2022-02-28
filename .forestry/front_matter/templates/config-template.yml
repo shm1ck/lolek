@@ -5,18 +5,22 @@ fields:
 - type: text
   name: baseURL
   label: baseURL
+  hidden: true
 - type: text
   name: languageCode
   label: languageCode
+  hidden: true
 - type: text
   name: title
-  label: Title
+  label: Title tag webu
 - type: text
   name: theme
   label: theme
+  hidden: true
 - type: number
   name: paginate
   label: paginate
+  hidden: true
 - type: field_group
   name: menu
   label: menu
@@ -47,6 +51,7 @@ fields:
     - type: number
       name: weight
       label: weight
+    hidden: true
 - type: field_group
   name: params
   label: params
@@ -54,9 +59,11 @@ fields:
   - type: text
     name: blogPageURL
     label: blogPageURL
+    hidden: true
   - type: file
     name: logo
-    label: logo
+    label: Logo
+    description: Logo v hlavičce webu
   - type: file
     name: footerLogo
     label: footerLogo
@@ -65,29 +72,36 @@ fields:
     label: contactLink
   - type: text
     name: copyright
-    label: copyright
+    label: Copyright v patičce webu
   - type: text
     name: googleAnalytics
     label: googleAnalytics
   - type: text
     name: formspreeURL
     label: formspreeURL
+    hidden: true
   - type: field_group
     name: address
     label: address
     fields:
     - type: text
       name: phone
-      label: phone
+      label: Telefon
     - type: text
       name: email
-      label: email
+      label: Emailová adresa
     - type: text
-      name: address
-      label: address
+      name: addressLine1
+      label: První řádek adresy
+    - name: addressLine2
+      type: text
+      config:
+        required: false
+      label: Druhý řádek adresy
     - type: text
       name: openingHours
       label: openingHours
+      hidden: true
   - type: field_group
     name: map
     label: map
@@ -104,5 +118,6 @@ fields:
     - type: file
       name: pinImage
       label: pinImage
+    hidden: true
 pages:
 - config.toml
