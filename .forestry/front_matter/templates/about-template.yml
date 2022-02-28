@@ -9,6 +9,7 @@ fields:
 - type: text
   name: subtitle
   label: subtitle
+  hidden: true
 - type: text
   name: title2
   label: title2
