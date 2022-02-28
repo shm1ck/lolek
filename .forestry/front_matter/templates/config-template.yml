@@ -5,7 +5,7 @@ fields:
 - type: text
   name: baseURL
   label: baseURL
-  hidden: true
+  hidden: false
 - type: text
   name: languageCode
   label: languageCode
