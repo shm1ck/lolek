@@ -38,6 +38,7 @@ fields:
     - type: number
       name: weight
       label: weight
+    hidden: true
   - type: field_group_list
     name: sitemap
     label: sitemap
@@ -52,9 +53,10 @@ fields:
       name: weight
       label: weight
     hidden: true
+  hidden: true
 - type: field_group
   name: params
-  label: params
+  label: Obecná nastavení webu
   fields:
   - type: text
     name: blogPageURL
@@ -67,9 +69,11 @@ fields:
   - type: file
     name: footerLogo
     label: footerLogo
+    hidden: true
   - type: text
     name: contactLink
     label: contactLink
+    hidden: true
   - type: text
     name: copyright
     label: Copyright v patičce webu
@@ -82,7 +86,7 @@ fields:
     hidden: true
   - type: field_group
     name: address
-    label: address
+    label: Konakty
     fields:
     - type: text
       name: phone
@@ -102,6 +106,7 @@ fields:
       name: openingHours
       label: openingHours
       hidden: true
+    description: Kontakty uvedené na stránce kontakty a v patičce webu.
   - type: field_group
     name: map
     label: map
