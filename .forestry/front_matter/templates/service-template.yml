@@ -12,7 +12,7 @@ fields:
   description: Hlavní nadpis sekce služby
 - type: field_group_list
   name: service
-  label: service
+  label: Služby
   fields:
   - type: textarea
     name: content
@@ -22,5 +22,6 @@ fields:
     name: image
     label: Ikona
     description: Ikona nad textem.
+  description: Přehled služeb na jednotlivých rolovacích kartách.
 pages:
 - data/serviceSection.yml
