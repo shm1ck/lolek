@@ -5,13 +5,9 @@ title: "## S čím vám pomohu\n"
 service:
 - content: |-
     #### Filmování
-
-    - Produkce
-
-    - Casting
-
-    - Lokace
-  image: "/images/film.svg"
+    - lokace
+    - produkce
+  image: lolek/images/film.svg
 - content: "#### Copywriting \n- blog\n- tištěná periodika\n- textace na web\n- textace
     inzerce\n- správa webu\n- e-shopu\n"
   image: images/service/ui-ux.svg
