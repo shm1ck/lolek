@@ -124,5 +124,28 @@ fields:
       name: pinImage
       label: pinImage
     hidden: true
+  - name: footerJumbo
+    type: field_group
+    config: {}
+    fields:
+    - name: smallTitle
+      type: text
+      config:
+        required: false
+      label: Malý nadpis
+    - name: bigTitle
+      type: text
+      config:
+        required: false
+      label: Velký nadpis
+      description: Největší nadpis v boxu.
+    - name: button
+      type: text
+      config:
+        required: false
+      label: Tlačítko
+      description: Text tlačítka
+    label: Jumbotron v patiče
+    description: Nastavení textů ve velkém boxu v patičce webu.
 pages:
 - config.toml
