@@ -4,11 +4,11 @@ topTitle: Služby
 title: "## S čím vám pomohu\n"
 service:
 - content: |-
-    #### Filmování
-    - lokace
-    - casting
-    - točení
-  image: images/contact/time.svg
+    #### Lovecká sezona
+    - naháňka
+    - střelba
+    - pejsci
+  image: images/smile.svg
 - content: "#### Copywriting \n- blog\n- tištěná periodika\n- textace na web\n- textace
     inzerce\n- správa webu\n- e-shopu\n"
   image: images/service/ui-ux.svg
