@@ -4,10 +4,11 @@ topTitle: Služby
 title: "## S čím vám pomohu\n"
 service:
 - content: |-
-    #### Lovecká sezona
-    - naháňka
-    - střelba
-    - pejsci
+    #### Vzorová karta
+    - nadpis má před sebou 4x#
+    - ikona nejlépe v svg 64x64 px
+    - png lze také akceptovatelné
+    - pro ikony bych použil font awesome
   image: images/smile.svg
 - content: "#### Copywriting \n- blog\n- tištěná periodika\n- textace na web\n- textace
     inzerce\n- správa webu\n- e-shopu\n"
