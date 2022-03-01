@@ -10,8 +10,8 @@ service:
     - png lze také akceptovatelné
     - pro ikony bych použil font awesome
   image: images/smile.svg
-- content: "#### Copywriting \n- blog\n- tištěná periodika\n- textace na web\n- textace
-    inzerce\n- správa webu\n- e-shopu\n"
+- content: "#### Copywriting \n- \n- B2B periodika\n- \n- správa e-shopu\n- správa
+    webu\n"
   image: images/service/ui-ux.svg
 - content: "#### Backoffice \n- Domlouvání schůzek\n- komunikace se zákazníky\n- komunikace
     s dodavateli (email, telefon)\n"
