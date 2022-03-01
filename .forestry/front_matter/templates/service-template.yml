@@ -17,7 +17,7 @@ fields:
   - type: textarea
     name: content
     label: Popis karty
-    description: Popis za hlavním nadpisem na kartě
+    description: 'Textový obsah karty. Text podporuje markdown. '
   - type: file
     name: image
     label: Ikona
