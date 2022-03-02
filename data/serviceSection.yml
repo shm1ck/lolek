@@ -3,6 +3,10 @@ enable: true
 topTitle: S čím vám pomohu
 title: "## Mé služby"
 service:
+- content: |
+    #### Eventy
+    - uspořádání a organizace firemních akcí
+  image: images/service/creative.svg
 - content: "#### Copywriting \n- prodejní texty\n- tematické články\n- obsah pro e-shop
     i web\n- PPC reklama\n- sociální sítě: Facebook, Instagram, LinkedIn\n- blogy\n"
   image: images/service/ui-ux.svg
