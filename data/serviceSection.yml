@@ -13,7 +13,6 @@ service:
 - content: |
     #### Marketing
     - správa a vytváření obsahu pro sociální sítě
-    - tvoření obsahu pro firemní blog, e-shop, web
-    - rozesílání newsletterů
-    - zpracování grafických podkladů (letáky, brožury, plakáty, bannery aj.)
+    - email marketing - newslettery
+    - zpracování grafických podkladů
   image: images/service/creative.svg
