@@ -26,7 +26,7 @@ addressLine1 = ""
 addressLine2 = ""
 email = "barbara.smidrkalova@gmail.com"
 openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "605161153"
+phone = "+420 605 161 153"
 [params.footerJumbo]
 bigTitle = "Jumbotron v patičce"
 button = "Kontakt"
