@@ -13,6 +13,6 @@ service:
 - content: |
     #### Marketing
     - správa a vytváření obsahu pro sociální sítě
-    - email marketing - newslettery
+    - email marketing (newslettery)
     - zpracování grafických podkladů
   image: images/service/creative.svg
