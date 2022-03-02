@@ -28,9 +28,9 @@ email = "barbara.smidrkalova@gmail.com"
 openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
 phone = "+420 605 161 153"
 [params.footerJumbo]
-bigTitle = "Propojme se"
-button = "Kontakt"
-smallTitle = "Neváhejte"
+bigTitle = "Pomohu vám mít uvolněné ruce i mysl..."
+button = "Kontaktujte mě..."
+smallTitle = "Všeho s mírou"
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"
 latitude = "23.7783741"
