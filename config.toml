@@ -20,7 +20,7 @@ copyright = "Všechna práva vyhrazena © Developed by MARUNA"
 footerLogo = "images/site-navigation/logo-b.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
-logo = "images/untitled-design.png"
+logo = "images/site-navigation/branding.svg"
 [params.address]
 addressLine1 = "Odboje 55"
 addressLine2 = "Litoměřice"
