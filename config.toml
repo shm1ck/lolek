@@ -36,13 +36,13 @@ APIkey = "YOUR GOOGLE MAP API"
 latitude = "23.7783741"
 longitude = "90.3746808"
 pinImage = "images/pin.png"
-[[params.social]]
+[[params.social-false]]
 icon = "fa-facebook-official"
 url = "https://www.facebook.com/"
 weight = 1
 [[params.social]]
 icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/"
+url = "https://cz.linkedin.com/in/%C5%A1midrkalov%C3%A1-barbara"
 weight = 2
 [[params.social-false]]
 icon = "fa-pinterest-square"
