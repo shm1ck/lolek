@@ -16,7 +16,7 @@ weight = 1
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "Všechna práva vyhrazena © Developed by MARUNA"
+copyright = "© Barbara Šmidrkalová"
 footerLogo = "images/site-navigation/logo-b.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
