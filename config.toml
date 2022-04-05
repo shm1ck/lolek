@@ -1,4 +1,4 @@
-baseURL = "http://blog.mareksmidrkal.cz/lolek"
+baseURL = "http://barbarasmidrkalova.cz"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
