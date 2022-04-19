@@ -18,9 +18,13 @@ $body-color: #7e7e8a;
 //$font-family-base: "Poppins", sans-serif;
 //$headings-font-family: "Yeseva One", cursive;
 
-@import url("https://fonts.googleapis.com/css?family=Be+Vietnam+Pro:400,500,600,700,800,900|Mogra&display=swap");
-$font-family-base: "Be Vietnam Pro", sans-serif;
-$headings-font-family: "Be Vietnam Pro", sans-serif;
+//@import url("https://fonts.googleapis.com/css?family=Be+Vietnam+Pro:400,500,600,700,800,900|Mogra&display=swap");
+//$font-family-base: "Be Vietnam Pro", sans-serif;
+//$headings-font-family: "Be Vietnam Pro", sans-serif;
+
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;700&display=swap');
+$font-family-base: "League Spartan", sans-serif;
+$headings-font-family: "League Spartan", sans-serif;
 
 // Size
 $font-size-base: 1.125rem; // 18px
