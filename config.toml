@@ -21,6 +21,7 @@ footerLogo = "images/site-navigation/logo-b.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/untitled-design-1.png"
+description = "Barbara, vaše všestranná virtuální asistentka. Pomohu vám mít uvolněné ruce i mysl."
 [params.address]
 addressLine1 = ""
 addressLine2 = "Litoměřice"
